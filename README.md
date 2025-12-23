@@ -14,18 +14,18 @@ This project integrates an LLM-backed assistant with a Unity-based workflow for 
 
 ## Project Structure
 - Assistant & Interaction
-  - [FinalIndividualProject/Final_Individual_Scripts/LLMController.cs](FinalIndividualProject/Final_Individual_Scripts/LLMController.cs)
-  - [FinalIndividualProject/Final_Individual_Scripts/PatientInteraction.cs](FinalIndividualProject/Final_Individual_Scripts/PatientInteraction.cs)
+  - [Scripts/LLMController.cs](Scripts/LLMController.cs)
+  - [Scripts/PatientInteraction.cs](Scripts/PatientInteraction.cs)
 - Modeling Tools
-  - [FinalIndividualProject/Final_Individual_Scripts/Create3DModelWindow.cs](FinalIndividualProject/Final_Individual_Scripts/Create3DModelWindow.cs)
+  - [Scripts/Create3DModelWindow.cs](Scripts/Create3DModelWindow.cs)
 - UI
-  - [FinalIndividualProject/Prefab/UI.prefab](FinalIndividualProject/Prefab/UI.prefab)
+  - [Prefab/UI.prefab](Prefab/UI.prefab)
 - Materials
-  - [FinalIndividualProject/Materials/Liver.mat](FinalIndividualProject/Materials/Liver.mat)
-  - [FinalIndividualProject/Materials/PortalVein.mat](FinalIndividualProject/Materials/PortalVein.mat)
-  - [FinalIndividualProject/Materials/Artery.mat](FinalIndividualProject/Materials/Artery.mat)
-  - [FinalIndividualProject/Materials/Veinoussystem.mat](FinalIndividualProject/Materials/Veinoussystem.mat)
-  - [FinalIndividualProject/Materials/LiverTumor01.mat](FinalIndividualProject/Materials/LiverTumor01.mat), [LiverTumor02.mat](FinalIndividualProject/Materials/LiverTumor02.mat)
+  - [Materials/Liver.mat](Materials/Liver.mat)
+  - [Materials/PortalVein.mat](Materials/PortalVein.mat)
+  - [Materials/Artery.mat](Materials/Artery.mat)
+  - [Materials/Veinoussystem.mat](Materials/Veinoussystem.mat)
+  - [Materials/LiverTumor01.mat](Materials/LiverTumor01.mat), [Materials/LiverTumor02.mat](Materials/LiverTumor02.mat)
 
 ## Getting Started
 - Prerequisites: Unity (LTS version recommended). Ensure a recent editor version that supports your pipeline and materials.
