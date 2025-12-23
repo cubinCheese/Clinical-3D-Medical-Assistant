@@ -1,6 +1,9 @@
 # Clinical 3D Medical Assistant
 
+![Clinical 3D Medical Assistant Thumbnail](Demo_Videos/ss.png)
+
 LLM-guided patient interaction and 3D model creation in Unity for medical visualization. This project combines a conversational assistant with procedural model tooling and curated materials to support clinical education, planning, and patient-facing explanations.
+
 
 ## Overview
 This project integrates an LLM-backed assistant with a Unity-based workflow for building and presenting medical 3D models. The assistant facilitates patient-friendly dialogue while the modeling window streamlines generating and organizing anatomical structures. Curated materials for liver, arteries, veins, and tumors provide clear differentiation and visual clarity. A modular UI ties the interaction and visualization together for a cohesive experience.
@@ -43,6 +46,3 @@ This project integrates an LLM-backed assistant with a Unity-based workflow for 
   - Open the 3D Model Window to create, label, and organize anatomical components.
   - Apply materials to highlight organs, vessels, and lesions.
 
-## Notes
-- This repository focuses on showcasing interaction + visualization workflows. For volume rendering and texture pipelines, see the related projects in your portfolio.
-- If sharing publicly, consider masking any sensitive datasets and using synthetic or anonymized assets.
